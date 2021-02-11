@@ -1,2 +1,2 @@
 s = input("Type your name: ")
-print("Hello" + s)
+print("Hello, " + s)
