@@ -1,2 +1,4 @@
-s = input("Type your name: ")
-print("Hello, " + s)
+t = input("Number of repeats: ")
+for i in range(int(t)):
+    s = input("Type your name: ")
+    print("Hello, " + s)
